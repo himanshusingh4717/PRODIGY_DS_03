@@ -1,4 +1,4 @@
-# PRODIGY_DS_03
+# Prodigy Infotech Internship
 # Task 3: Loan Prediction Using Decision Tree Model
 In this task, I developed a Decision Tree model to determine whether a customer is likely to take a loan based on their demographic and financial information.
 # 1. Objective
